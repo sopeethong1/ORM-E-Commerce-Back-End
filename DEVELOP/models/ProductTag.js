@@ -4,8 +4,9 @@ const sequelize = require("../config/connection");
 
 class ProductTag extends Model {}
 
-ProductTag.init({
-  id: {
+ProductTag.init(
+  {
+    id: {
     type: DataTypes.INTEGER,
     allowNull: false,
     primaryKey: true,
@@ -16,7 +17,6 @@ ProductTag.init({
     references: {
       model: "Product",
       key: "id",
-      unique: false,
     },
   },
   tag_id: {
@@ -24,14 +24,16 @@ ProductTag.init({
     references: {
       model: "Tag",
       key: "id",
-      unique: false,
-    },
-  },
+    }
+  }
+},
+{
   sequelize,
   timestamps: false,
   freezeTableName: true,
   underscored: true,
   modelName: "product_tag",
-});
+}
+);
 
 module.exports = ProductTag;
