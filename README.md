@@ -26,7 +26,7 @@
   * email: tsopee@gmail.com
 
   ## Screen Record of ORM E-Commerce-Back-End Functionality
-  ![Alt Text]()
+  ![Alt Text](https://github.com/sopeethong1/ORM-E-Commerce-Back-End/blob/f653e6e3b5b4bf003e67fe6232d25a2d9b97dfe6/ASSETS/ORM%20E-Commerce%20Back%20End.gif)
 
   ## Link to Screen Record of ORM E-Commerce-Back-End Functionality
   [link] https://drive.google.com/file/d/1dP87ypQLLi1AsPKpf0hEXOOzs1vtY_XU/view
