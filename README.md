@@ -1,6 +1,6 @@
   ## ORM-E-Commerce-Back-End
   ## Description 
-  This ORM-E-Commerce-Back-End application will help a company compete with their e-commerce competitors by using the latest technologies of an Express.js API, MySQL, and Sequelize to accurately manage their inventory.  The company will efficiently be able create, update, delete and view their inventory by Category, Product, Tags, and Product Tags. 
+  This ORM-E-Commerce-Back-End application will help a company compete with their e-commerce competitors by using the latest technologies of an Express.js API, MySQL, and Sequelize to accurately manage their inventory.  The company will efficiently have the ability to create, update, delete and view their inventory by Category, Product, Tags, and Product Tags. 
   ## User Story
   ```
   AS A manager at an internet retail company
