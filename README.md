@@ -25,8 +25,8 @@
   * github username: sopeethong1 
   * email: tsopee@gmail.com
 
-  ## Screen Record of Employee Tracker Functionality
+  ## Screen Record of ORM E-Commerce-Back-End Functionality
   ![Alt Text]()
 
-  ## Link to Application Recording
+  ## Link to Screen Record of ORM E-Commerce-Back-End Functionality
   [link] 
